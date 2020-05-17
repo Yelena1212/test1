@@ -4,6 +4,13 @@ const assert = require('assert')
 it('should  add 2 + 2 eq 4', () => {
 
 });
+it ('should add 3 + 3 eq 6', () => {
+
+});
+it ('should mult 2 * 4 eq 8', () => {
+
+});
+assert.equal(mult(10,10), 100)
 
 it('should function add 2+ 2 = 4', () =>{
     assert.equal(add (2, 5), 7)
