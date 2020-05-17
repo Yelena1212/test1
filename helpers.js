@@ -6,4 +6,5 @@ function add(a,b) {
 function mult(a,b) {
     return a * b;
 }
-module.exports = { add, mult };
+
+export default { add, mult };
